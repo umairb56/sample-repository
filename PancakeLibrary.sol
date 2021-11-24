@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import '@un';
+import 'https://github.com/umairb56/sample-repository/blob/main/IPancakePair.sol';
 
 import "./SafeMath.sol";
 
